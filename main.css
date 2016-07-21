@@ -1,0 +1,58 @@
+h1{
+	text-align: center;
+	font-family: Arial;
+}
+div{
+	background-color: #04B45F;
+}
+.borde{
+	border: 1px solid white;
+}
+.cancha{
+	width:1000px;
+	height:500px;
+	margin:50px 200px;
+	padding: 40px;
+}
+.linea{
+	width:990px; 
+	height:490px; 
+	position: relative;
+}
+.figs{
+	display: inline-block;
+	position: absolute;
+}
+.figuraA{
+	width: 100px;
+	height:180px;
+	top:150px;
+}
+.figuraB{
+	width: 100px;
+	height:180px;
+	top:150px;
+	left:889px;
+}
+.centro{
+	width:180px; 
+	height:180px; 
+	border-radius:90px;
+	top:140px;
+	left:390px;
+}
+img{ 
+	position:absolute; 
+}
+.BolaA{
+	left:88px;
+	top:8px;
+}
+.BolaB{
+	left:88px;
+	bottom:220px;
+}
+.BolaC{
+	right:105px;
+	top:150px;
+}
